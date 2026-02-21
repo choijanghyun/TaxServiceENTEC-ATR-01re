@@ -1,0 +1,39 @@
+{
+  "researchIds": [
+    "v1_ChdwUC1ZYVl1YUd0U3gwLWtQa0x2WHdBbxIXcFAtWWFZdWFHdFN4MC1rUGtMdlh3QW8",
+    "v1_ChdvZ1daYWVLcEQ2U20xZThQMElEUHdBZxIXb2dXWmFlS3BENlNtMWU4UDBJRFB3QWc",
+    "v1_ChdUUXVaYVpXeEpJcm8ycm9QaWRQS2dBVRIXVFF1WmFaV3hKSXJvMnJvUGlkUEtnQVU",
+    "v1_ChcyeFNaYVlXZU12bkUwLWtQMXBtUGdBaxIXMnhTWmFZV2VNdm5FMC1rUDFwbVBnQWs",
+    "v1_ChdpUmFaYWJXMkhxU3gwLWtQOWRtWjJBURIXaVJhWmFiVzJIcVN4MC1rUDlkbVoyQVE"
+  ],
+  "fileSearchStores": {},
+  "uploadOperations": {},
+  "researchHistory": [
+    {
+      "id": "v1_ChdwUC1ZYVl1YUd0U3gwLWtQa0x2WHdBbxIXcFAtWWFZdWFHdFN4MC1rUGtMdlh3QW8",
+      "duration_seconds": 559,
+      "grounded": false,
+      "timestamp": "2026-02-21T00:52:37Z"
+    },
+    {
+      "id": "v1_ChdvZ1daYWVLcEQ2U20xZThQMElEUHdBZxIXb2dXWmFlS3BENlNtMWU4UDBJRFB3QWc",
+      "duration_seconds": 404,
+      "grounded": false,
+      "timestamp": "2026-02-21T01:15:37Z"
+    },
+    {
+      "id": "v1_ChdUUXVaYVpXeEpJcm8ycm9QaWRQS2dBVRIXVFF1WmFaV3hKSXJvMnJvUGlkUEtnQVU",
+      "duration_seconds": 872,
+      "grounded": true,
+      "timestamp": "2026-02-21T01:47:36Z"
+    },
+    {
+      "id": "v1_ChcyeFNaYVlXZU12bkUwLWtQMXBtUGdBaxIXMnhTWmFZV2VNdm5FMC1rUDFwbVBnQWs",
+      "duration_seconds": 243,
+      "grounded": false,
+      "timestamp": "2026-02-21T02:17:48Z"
+    }
+  ],
+  "_hashCache": {},
+  "contextStores": {}
+}
