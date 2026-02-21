@@ -1,52 +1,23 @@
 {
   "researchIds": [
-    "v1_ChdwUC1ZYVl1YUd0U3gwLWtQa0x2WHdBbxIXcFAtWWFZdWFHdFN4MC1rUGtMdlh3QW8",
-    "v1_ChdvZ1daYWVLcEQ2U20xZThQMElEUHdBZxIXb2dXWmFlS3BENlNtMWU4UDBJRFB3QWc",
-    "v1_ChdUUXVaYVpXeEpJcm8ycm9QaWRQS2dBVRIXVFF1WmFaV3hKSXJvMnJvUGlkUEtnQVU",
-    "v1_ChcyeFNaYVlXZU12bkUwLWtQMXBtUGdBaxIXMnhTWmFZV2VNdm5FMC1rUDFwbVBnQWs",
-    "v1_ChdpUmFaYWJXMkhxU3gwLWtQOWRtWjJBURIXaVJhWmFiVzJIcVN4MC1rUDlkbVoyQVE",
-    "v1_ChczaGVaYVo2ckZyX3cxZThQOThtWmlBURIXM2hlWmFaNnJGcl93MWU4UDk4bVppQVE"
+    "v1_ChdfSnVZYWE2TUJZS0ExZThQcF8tQ2lBbxIXX0p1WWFhNk1CWUtBMWU4UHBfLUNpQW8"
   ],
-  "fileSearchStores": {},
+  "fileSearchStores": {
+    "context-e2521e9c7d36-1771607693": "fileSearchStores/contexte2521e9c7d3617716076-yggp0vqtz9bx"
+  },
   "uploadOperations": {},
+  "_hashCache": {
+    "fileSearchStores/contexte2521e9c7d3617716076-yggp0vqtz9bx": {}
+  },
+  "contextStores": {
+    "context-e2521e9c7d36-1771607693": "fileSearchStores/contexte2521e9c7d3617716076-yggp0vqtz9bx"
+  },
   "researchHistory": [
     {
-      "id": "v1_ChdwUC1ZYVl1YUd0U3gwLWtQa0x2WHdBbxIXcFAtWWFZdWFHdFN4MC1rUGtMdlh3QW8",
-      "duration_seconds": 559,
-      "grounded": false,
-      "timestamp": "2026-02-21T00:52:37Z"
-    },
-    {
-      "id": "v1_ChdvZ1daYWVLcEQ2U20xZThQMElEUHdBZxIXb2dXWmFlS3BENlNtMWU4UDBJRFB3QWc",
-      "duration_seconds": 404,
-      "grounded": false,
-      "timestamp": "2026-02-21T01:15:37Z"
-    },
-    {
-      "id": "v1_ChdUUXVaYVpXeEpJcm8ycm9QaWRQS2dBVRIXVFF1WmFaV3hKSXJvMnJvUGlkUEtnQVU",
-      "duration_seconds": 872,
+      "id": "v1_ChdfSnVZYWE2TUJZS0ExZThQcF8tQ2lBbxIXX0p1WWFhNk1CWUtBMWU4UHBfLUNpQW8",
+      "duration_seconds": 498,
       "grounded": true,
-      "timestamp": "2026-02-21T01:47:36Z"
-    },
-    {
-      "id": "v1_ChcyeFNaYVlXZU12bkUwLWtQMXBtUGdBaxIXMnhTWmFZV2VNdm5FMC1rUDFwbVBnQWs",
-      "duration_seconds": 243,
-      "grounded": false,
-      "timestamp": "2026-02-21T02:17:48Z"
-    },
-    {
-      "id": "v1_ChdpUmFaYWJXMkhxU3gwLWtQOWRtWjJBURIXaVJhWmFiVzJIcVN4MC1rUDlkbVoyQVE",
-      "duration_seconds": 158,
-      "grounded": false,
-      "timestamp": "2026-02-21T02:23:32Z"
-    },
-    {
-      "id": "v1_ChczaGVaYVo2ckZyX3cxZThQOThtWmlBURIXM2hlWmFaNnJGcl93MWU4UDk4bVppQVE",
-      "duration_seconds": 627,
-      "grounded": true,
-      "timestamp": "2026-02-21T02:37:02Z"
+      "timestamp": "2026-02-20T17:46:24Z"
     }
-  ],
-  "_hashCache": {},
-  "contextStores": {}
+  ]
 }

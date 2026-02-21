@@ -1,7 +1,33 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)"
+      "Bash(claude --version:*)",
+      "Bash(where:*)",
+      "Bash(node --version:*)",
+      "Bash(npm:*)",
+      "Bash(claude -p:*)",
+      "Bash(echo:*)",
+      "WebSearch",
+      "WebFetch(domain:www.law.go.kr)",
+      "Bash(python3:*)",
+      "Bash(PYTHON=\"/c/Users/user/AppData/Local/Programs/Python/Python311/python.exe\")",
+      "Bash($PYTHON -c \"import httpx; print\\(''httpx available''\\)\")",
+      "Bash($PYTHON -m pip install:*)",
+      "Bash(GEMINI_API_KEY=AIzaSyDpnQY8KzBrs2zN9qqxWX9V3qK0zHyokMk \"/c/Users/user/AppData/Local/Programs/Python/Python311/python.exe\" scripts/research.py --query \"한국 세금 환급금 계산\\(경정청구\\) 관련 2024-2025년 최신 법령 검증. 법제처 국가법령정보\\(law.go.kr\\) 또는 국세청 법령정보시스템\\(taxlaw.nts.go.kr\\) 기준으로 다음 14개 항목을 검증해주세요::*)",
+      "Bash(npx skills add 24601/agent-deep-research -a claude-code -g -y)",
+      "Bash(uv run:*)",
+      "Bash(uv:*)",
+      "Bash(powershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\")",
+      "Bash(export PATH=\"/c/Users/user/.local/bin:$PATH\")",
+      "Bash(source:*)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "WebFetch(domain:flex.team)",
+      "Bash(export:*)",
+      "Bash(GEMINI_API_KEY=\"AIzaSyDhLNcayW4xzb-GkvyMIJgvzr524oFXhE4\" uv run \"C:\\\\Users\\\\user\\\\.claude\\\\skills\\\\deep-research\\\\scripts\\\\research.py\" start \"한국 세금 환급금 계산 관련 법률 교차검증. 다음 주제에 대해 법제처 국가법령정보\\(www.law.go.kr\\) 및 국세청 법령정보시스템\\(taxlaw.nts.go.kr\\)의 최신 법령을 기준으로 조사해주세요::*)",
+      "Bash(iconv:*)",
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(GEMINI_API_KEY=\"AIzaSyDhLNcayW4xzb-GkvyMIJgvzr524oFXhE4\" uv run \"C:/Users/user/.claude/skills/deep-research/scripts/research.py\" start \"한국 세금 경정청구 환급액 계산에 필요한 세액공제/감면 법률지식 조사. 법제처 국가법령정보\\(www.law.go.kr\\)를 참조하여 다음 항목별로 환급액 시뮬레이션에 필요한 ''납세자 입력 데이터 필드''를 법령 조문 단위로 정리해주세요::*)"
     ]
   }
 }
